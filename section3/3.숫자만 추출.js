@@ -13,3 +13,5 @@ console.log(solution(str));
 /*팁 */
 // parseInt("10 years"); // 10
 // parseInt("years 10"); // NaN
+
+// isNaN() - 숫자가 아니면 true, 숫자면 false
